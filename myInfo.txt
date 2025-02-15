@@ -3,4 +3,8 @@ I study in NIST UNIVERSITY
 Branch to Swaraj
 changed code for githubby
 i have changed this in githubbbbbbb
+<<<<<<< HEAD
 new gittty
+=======
+i am on swaraj branch.... merge conflict test
+>>>>>>> swaraj
